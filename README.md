@@ -1,4 +1,4 @@
-<h2 align="center"> Mercury Mailer </h2>
+<h1 align="center"> Yogini </h1>
 
 Yogini is a user centred project to help people reconnect with Yoga in these times when physical restrictions have disrupted all our fitness plans. It’s an innovative solution using AI to help people do Yoga within the comforts and safety of their homes. 
 
