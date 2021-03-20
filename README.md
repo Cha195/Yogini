@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+<h1 align="center"> Yogini </h1>
+
+Yogini is a user centred project to help people reconnect with Yoga in these times when physical restrictions have disrupted all our fitness plans. It’s an innovative solution using AI to help people do Yoga within the comforts and safety of their homes. 
+
+- Yogini is a webapp with the following features giving it a distinct place than its existing competition:
+- Real time posture detection and correction using AI techniques.
+- Standard modules for performing different Yoga techniques based on user’s choice and comfort level.
+- Voice assisted timer to help you time the duration of each asana so you focus just on yourself
+- User input search facility for postures not in the standard modules
+- Pranayama/Breathing exercises training as an add on 
+- A lighter and on device ML processing to keep your data safe and secure,while not hogging additional resources.
+
+## Tech Stack
+- ReactJS
+- Tensorflow
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
